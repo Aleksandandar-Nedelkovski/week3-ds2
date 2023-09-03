@@ -1,4 +1,13 @@
 .App {
-  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Optional: to center vertically */
+}
+
+.centered-div {
   text-align: center;
 }
